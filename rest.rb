@@ -2,7 +2,7 @@ require 'sinatra'
 require 'yaml'
 
 current_latitude = ''
-current_latitude = ''
+current_longitude = ''
 current_route = '';
 
 # POST /bus_position
@@ -11,10 +11,10 @@ post '/api/bus_position' do
     begin
         bodyJSON = JSON.parse(unescape(request.body.read.to_s))
         current_latitude = bodyJSON['latitude']
-        current_latitude = bodyJSON['longitude']
+        current_longitude = bodyJSON['longitude']
         
         status 200
-        body "{\"success\":\"true\",\"bus_position\":{\"latitude\":\"" + current_latitude + "\",\"longitude\":\"" + current_latitude + "\"}}"
+        body "{\"success\":\"true\",\"bus_position\":{\"latitude\":\"" + current_latitude + "\",\"longitude\":\"" + current_longitude + "\"}}"
     rescue StandardError => err
         status 500
         body "{\"success\":\"false\"}"
@@ -25,12 +25,12 @@ end
 # Returns the last posted bus position
 get '/api/bus_position' do
     begin
-        if current_latitude == '' or current_latitude == '' then
+        if current_latitude == '' or current_longitude == '' then
             status 202
             body "{\"success\":\"false\",\"error_message\":\"Coordinates not yet POSTed.\"}"
         else
             status 200
-            body "{\"success\":\"true\",\"bus_position\":{\"latitude\":\"" + current_latitude + "\",\"longitude\":\"" + current_latitude + "\"}}"
+            body "{\"success\":\"true\",\"bus_position\":{\"latitude\":\"" + current_latitude + "\",\"longitude\":\"" + current_longitude + "\"}}"
         end
     rescue StandardError => err
         status 500
@@ -47,7 +47,7 @@ post '/api/bus_route' do
         current_route = bodyJSON;
         
         status 200
-        body "{\"success\":\"true\",\"response\":" + current_route.to_json + "}"
+        body "{\"success\":\"true\",\"route\":" + current_route.to_json + "}"
     rescue StandardError => err
         status 500
         body "{\"success\":\"false\",\"error_message\":\"" + err.to_s + "\"}"
@@ -63,7 +63,7 @@ get '/api/bus_route' do
             body "{\"success\":\"false\",\"error_message\":\"Route not yet POSTed.\"}"
         else
             status 200
-            body "{\"success\":\"true\",\"response\":" + current_route.to_json + "}"
+            body "{\"success\":\"true\",\"route\":" + current_route.to_json + "}"
         end
     rescue StandardError => err
         status 500
