@@ -8,7 +8,7 @@ current_driving_state = true;
 
 # POST /bus_position
 # Updates the last posted bus position
-post '/api/bus_position' do
+post '/api_legacy/bus_position' do
     begin
         bodyJSON = JSON.parse(unescape(request.body.read.to_s))
         current_latitude = bodyJSON['latitude']
@@ -24,7 +24,7 @@ end
 
 # GET /bus_position
 # Returns the last posted bus position
-get '/api/bus_position' do
+get '/api_legacy/bus_position' do
     begin
         if current_latitude == '' or current_longitude == '' then
             status 202
@@ -41,7 +41,7 @@ end
 
 # POST /bus_route
 # Updates the bus's current route
-post '/api/bus_route' do
+post '/api_legacy/bus_route' do
     begin
         bodyJSON = JSON.parse(unescape(request.body.read.to_s))
         
@@ -57,7 +57,7 @@ end
 
 # GET /bus_route
 # Returns the bus's current route
-get '/api/bus_route' do
+get '/api_legacy/bus_route' do
     begin
         if current_route == '' then
             status 202
@@ -74,7 +74,7 @@ end
 
 # POST /bus_route
 # Updates the bus's current driving state
-post '/api/bus_driving' do
+post '/api_legacy/bus_driving' do
     begin
         bodyJSON = JSON.parse(unescape(request.body.read.to_s))
         
@@ -90,7 +90,7 @@ end
 
 # GET /bus_driving
 # Returns the bus's current driving state
-get '/api/bus_driving' do
+get '/api_legacy/bus_driving' do
     begin
         status 200
         body "{\"success\":\"true\",\"is_driving\":\"" + current_driving_state.to_s + "\"}"
