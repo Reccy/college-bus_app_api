@@ -1,0 +1,833 @@
+{
+
+  "bus_stop_s_Abbeyvale": {
+
+    "id": "Abbeyvale",
+
+    "latitude": 53.459598541259766,
+
+    "longitude": -6.2512187957763672
+
+  },
+
+  "bus_stop_s_Swords Manor": {
+
+    "id": "Swords Manor",
+
+    "latitude": 53.459957122802734,
+
+    "longitude": -6.2451448440551758
+
+  },
+
+  "bus_stop_s_Valley View": {
+
+    "id": "Valley View",
+
+    "latitude": 53.460662841796875,
+
+    "longitude": -6.2413311004638672
+
+  },
+
+  "bus_stop_s_TheGallops": {
+
+    "id": "The Gallops",
+
+    "latitude": 53.4625358581543,
+
+    "longitude": -6.2399039268493652
+
+  },
+
+  "bus_stop_s_Lios Cian": {
+
+    "id": "Lios Cian",
+
+    "latitude": 53.463943481445313,
+
+    "longitude": -6.2395009994506836
+
+  },
+
+  "bus_stop_s_Cianlea": {
+
+    "id": "Cianlea",
+
+    "latitude": 53.465721130371094,
+
+    "longitude": -6.2398052215576172
+
+  },
+
+  "bus_stop_s_Laurelton": {
+
+    "id": "Laurelton",
+
+    "latitude": 53.4682502746582,
+
+    "longitude": -6.2368230819702148
+
+  },
+
+  "bus_stop_s_Jugback Lane": {
+
+    "id": "Jugback Lane",
+
+    "latitude": 53.468685150146484,
+
+    "longitude": -6.2280368804931641
+
+  },
+
+  "bus_stop_s_St Colmcille's GAA": {
+
+    "id": "St Colmcille's GAA",
+
+    "latitude": 53.4682502746582,
+
+    "longitude": -6.220548152923584
+
+  },
+
+  "bus_stop_s_West Seatown": {
+
+    "id": "West Seatown",
+
+    "latitude": 53.465007781982422,
+
+    "longitude": -6.2173609733581543
+
+  },
+
+  "bus_stop_s_Seatown Road": {
+
+    "id": "Seatown Road",
+
+    "latitude": 53.46221923828125,
+
+    "longitude": -6.2132821083068848
+
+  },
+
+  "bus_stop_s_Swords Bypass": {
+
+    "id": "Swords Bypass",
+
+    "latitude": 53.456935882568359,
+
+    "longitude": -6.2124748229980469
+
+  },
+
+  "bus_stop_s_Malahide Roundabout": {
+
+    "id": "Malahide Roundabout",
+
+    "latitude": 53.454200744628906,
+
+    "longitude": -6.2157068252563477
+
+  },
+
+  "bus_stop_s_Pavilions Shopping Centre": {
+
+    "id": "Pavilions Shopping Centre",
+
+    "latitude": 53.454856872558594,
+
+    "longitude": -6.2184009552001953
+
+  },
+
+  "bus_stop_s_Dublin Road (Penneys)": {
+
+    "id": "Dublin Road (Penneys)",
+
+    "latitude": 53.455879211425781,
+
+    "longitude": -6.2217278480529785
+
+  },
+
+  "bus_stop_s_Dublin Road (Topaz)": {
+
+    "id": "Dublin Road (Topaz)",
+
+    "latitude": 53.453369140625,
+
+    "longitude": -6.2238898277282715
+
+  },
+
+  "bus_stop_s_Pinnock Hill r/about": {
+
+    "id": "Pinnock Hill r/about",
+
+    "latitude": 53.449008941650391,
+
+    "longitude": -6.22668981552124
+
+  },
+
+  "bus_stop_s_Reids Furniture": {
+
+    "id": "Reids Furniture",
+
+    "latitude": 53.447090148925781,
+
+    "longitude": -6.2279701232910156
+
+  },
+
+  "bus_stop_s_Swords Bypass opp Texaco": {
+
+    "id": "Swords Bypass opp Texaco",
+
+    "latitude": 53.443191528320313,
+
+    "longitude": -6.2279548645019531
+
+  },
+
+  "bus_stop_s_National Show Ground": {
+
+    "id": "National Show Ground",
+
+    "latitude": 53.440719604492188,
+
+    "longitude": -6.2275400161743164
+
+  },
+
+  "bus_stop_s_Applewood Estate": {
+
+    "id": "Applewood Estate",
+
+    "latitude": 53.469398498535156,
+
+    "longitude": -6.2308559417724609
+
+  },
+
+  "bus_stop_s_Highfields": {
+
+    "id": "Highfields",
+
+    "latitude": 53.454330444335938,
+
+    "longitude": -6.2244100570678711
+
+  },
+
+  "bus_stop_s_Ballintrane": {
+
+    "id": "Ballintrane",
+
+    "latitude": 53.452571868896484,
+
+    "longitude": -6.2272911071777344
+
+  },
+
+  "bus_stop_s_River Valley Lawn": {
+
+    "id": "River Valley Lawn",
+
+    "latitude": 53.451995849609375,
+
+    "longitude": -6.2323417663574219
+
+  },
+
+  "bus_stop_s_River Valley Heights": {
+
+    "id": "River Valley Heights",
+
+    "latitude": 53.452713012695313,
+
+    "longitude": -6.2370672225952148
+
+  },
+
+  "bus_stop_s_Cherry Garth Estate": {
+
+    "id": "Cherry Garth Estate",
+
+    "latitude": 53.453243255615234,
+
+    "longitude": -6.2395000457763672
+
+  },
+
+  "bus_stop_s_Rathingle, Forest View": {
+
+    "id": "Rathingle, Forest View",
+
+    "latitude": 53.449428558349609,
+
+    "longitude": -6.2404627799987793
+
+  },
+
+  "bus_stop_s_Boroimhe Laurels": {
+
+    "id": "Boroimhe Laurels",
+
+    "latitude": 53.445804595947266,
+
+    "longitude": -6.2355818748474121
+
+  },
+
+  "bus_stop_s_Boroimhe Maples": {
+
+    "id": "Boroimhe Maples",
+
+    "latitude": 53.44464111328125,
+
+    "longitude": -6.2310972213745117
+
+  },
+
+  "bus_stop_s_Airside Road": {
+
+    "id": "Airside Road",
+
+    "latitude": 53.444969177246094,
+
+    "longitude": -6.2271847724914551
+
+  },
+
+  "bus_stop_s_Airside Central": {
+
+    "id": "Airside Central",
+
+    "latitude": 53.445976257324219,
+
+    "longitude": -6.2243080139160156
+
+  },
+
+  "bus_stop_s_Malahide Road (Foxwood Est)": {
+
+    "id": "Malahide Road (Foxwood Est)",
+
+    "latitude": 53.454067230224609,
+
+    "longitude": -6.211763858795166
+
+  },
+
+  "bus_stop_s_Holywell Distributor Road": {
+
+    "id": "Holywell Distributor Road",
+
+    "latitude": 53.443622589111328,
+
+    "longitude": -6.2111539840698242
+
+  },
+
+  "bus_stop_s_Seamount View Est": {
+
+    "id": "Seamount View Est",
+
+    "latitude": 53.453685760498047,
+
+    "longitude": -6.2061882019042969
+
+  },
+
+  "bus_stop_s_Holywell Square": {
+
+    "id": "Holywell Square",
+
+    "latitude": 53.447227478027344,
+
+    "longitude": -6.2075037956237793
+
+  },
+
+  "bus_stop_s_Mountgorry Way": {
+
+    "id": "Mountgorry Way",
+
+    "latitude": 53.448635101318359,
+
+    "longitude": -6.2043228149414063
+
+  },
+
+  "bus_stop_s_M1 Drinan": {
+
+    "id": "M1 Drinan",
+
+    "latitude": 53.443447113037109,
+
+    "longitude": -6.2092680931091309
+
+  },
+
+  "bus_stop_s_East Wall Road": {
+
+    "id": "East Wall Road",
+
+    "latitude": 53.350795745849609,
+
+    "longitude": -6.22601318359375
+
+  },
+
+  "bus_stop_s_Convention Center": {
+
+    "id": "Convention Center",
+
+    "latitude": 53.347476959228516,
+
+    "longitude": -6.2398490905761719
+
+  },
+
+  "bus_stop_s_Sean O'Casey Bridge": {
+
+    "id": "Sean O'Casey Bridge",
+
+    "latitude": 53.347930908203125,
+
+    "longitude": -6.247046947479248
+
+  },
+
+  "bus_stop_s_Eden Quay": {
+
+    "id": "Eden Quay",
+
+    "latitude": 53.348064422607422,
+
+    "longitude": -6.256007194519043
+
+  },
+
+  "bus_stop_s_Merrion Square": {
+
+    "id": "Merrion Square",
+
+    "latitude": 53.338981628417969,
+
+    "longitude": -6.2496190071105957
+
+  },
+
+  "bus_stop_n_Merrion Square": {
+
+    "id": "Merrion Square",
+
+    "latitude": 53.339084625244141,
+
+    "longitude": -6.2499232292175293
+
+  },
+
+  "bus_stop_n_Eden Quay": {
+
+    "id": "Eden Quay",
+
+    "latitude": 53.347782135009766,
+
+    "longitude": -6.2585201263427734
+
+  },
+
+  "bus_stop_n_IFSC": {
+
+    "id": "IFSC",
+
+    "latitude": 53.348297119140625,
+
+    "longitude": -6.250391960144043
+
+  },
+
+  "bus_stop_n_Custom House Quay (Jury's)": {
+
+    "id": "Custom House Quay (Jury's)",
+
+    "latitude": 53.348068237304688,
+
+    "longitude": -6.247161865234375
+
+  },
+
+  "bus_stop_n_Custom House Quay (Clarion's)": {
+
+    "id": "Custom House Quay (Clarion's)",
+
+    "latitude": 53.347782135009766,
+
+    "longitude": -6.2424187660217285
+
+  },
+
+  "bus_stop_n_North Wall Quay": {
+
+    "id": "North Wall Quay",
+
+    "latitude": 53.347389221191406,
+
+    "longitude": -6.2364392280578613
+
+  },
+
+  "bus_stop_n_Point Depot": {
+
+    "id": "Point Depot",
+
+    "latitude": 53.348125457763672,
+
+    "longitude": -6.22720193862915
+
+  },
+
+  "bus_stop_n_Airport Roundabout": {
+
+    "id": "Airport Roundabout",
+
+    "latitude": 53.429389953613281,
+
+    "longitude": -6.2301411628723145
+
+  },
+
+  "bus_stop_n_N1 Business Park": {
+
+    "id": "N1 Business Park",
+
+    "latitude": 53.440261840820313,
+
+    "longitude": -6.2278399467468262
+
+  },
+
+  "bus_stop_n_Swords Bypass": {
+
+    "id": "Swords Bypass",
+
+    "latitude": 53.443332672119141,
+
+    "longitude": -6.2283368110656738
+
+  },
+
+  "bus_stop_n_Pinnock Hill Roundabout": {
+
+    "id": "Pinnock Hill Roundabout",
+
+    "latitude": 53.446704864501953,
+
+    "longitude": -6.2283449172973633
+
+  },
+
+  "bus_stop_n_Pinnock Hill after Travel Lodge": {
+
+    "id": "Pinnock Hill after Travel Lodge",
+
+    "latitude": 53.450660705566406,
+
+    "longitude": -6.2235550880432129
+
+  },
+
+  "bus_stop_n_Holywell Distributor Road": {
+
+    "id": "Holywell Distributor Road",
+
+    "latitude": 53.443408966064453,
+
+    "longitude": -6.2112231254577637
+
+  },
+
+  "bus_stop_n_Holywell Square": {
+
+    "id": "Holywell Square",
+
+    "latitude": 53.44732666015625,
+
+    "longitude": -6.2078471183776855
+
+  },
+
+  "bus_stop_n_Mountgorry Way": {
+
+    "id": "Mountgorry Way",
+
+    "latitude": 53.448673248291016,
+
+    "longitude": -6.2045111656188965
+
+  },
+
+  "bus_stop_n_Seamount View Est": {
+
+    "id": "Seamount View Est",
+
+    "latitude": 53.453533172607422,
+
+    "longitude": -6.2051911354064941
+
+  },
+
+  "bus_stop_n_Malahide Road (Foxwood Est)": {
+
+    "id": "Malahide Road (Foxwood Est)",
+
+    "latitude": 53.454002380371094,
+
+    "longitude": -6.2119269371032715
+
+  },
+
+  "bus_stop_n_Airside Central": {
+
+    "id": "Airside Central",
+
+    "latitude": 53.446109771728516,
+
+    "longitude": -6.2227621078491211
+
+  },
+
+  "bus_stop_n_Boroimhe Maples": {
+
+    "id": "Boroimhe Maples",
+
+    "latitude": 53.444522857666016,
+
+    "longitude": -6.2314572334289551
+
+  },
+
+  "bus_stop_n_Boroimhe Laurels": {
+
+    "id": "Boroimhe Laurels",
+
+    "latitude": 53.445171356201172,
+
+    "longitude": -6.2350058555603027
+
+  },
+
+  "bus_stop_n_Rathingle Road": {
+
+    "id": "Rathingle Road",
+
+    "latitude": 53.447803497314453,
+
+    "longitude": -6.2380638122558594
+
+  },
+
+  "bus_stop_n_Cherry Avenue": {
+
+    "id": "Cherry Avenue",
+
+    "latitude": 53.448947906494141,
+
+    "longitude": -6.2397599220275879
+
+  },
+
+  "bus_stop_n_Rathingle, Forest View": {
+
+    "id": "Rathingle, Forest View",
+
+    "latitude": 53.449607849121094,
+
+    "longitude": -6.2415428161621094
+
+  },
+
+  "bus_stop_n_Cherry Garth Estate": {
+
+    "id": "Cherry Garth Estate",
+
+    "latitude": 53.453273773193359,
+
+    "longitude": -6.23875093460083
+
+  },
+
+  "bus_stop_n_River Valley Heights": {
+
+    "id": "River Valley Heights",
+
+    "latitude": 53.452629089355469,
+
+    "longitude": -6.2360987663269043
+
+  },
+
+  "bus_stop_n_Ballintrane": {
+
+    "id": "Ballintrane",
+
+    "latitude": 53.452152252197266,
+
+    "longitude": -6.228604793548584
+
+  },
+
+  "bus_stop_n_Highfields": {
+
+    "id": "Highfields",
+
+    "latitude": 53.454444885253906,
+
+    "longitude": -6.224517822265625
+
+  },
+
+  "bus_stop_n_Dublin Road (opp Penneys)": {
+
+    "id": "Dublin Road (opp Penneys)",
+
+    "latitude": 53.455345153808594,
+
+    "longitude": -6.2223520278930664
+
+  },
+
+  "bus_stop_n_Malahide Roundabout": {
+
+    "id": "Malahide Roundabout",
+
+    "latitude": 53.454395294189453,
+
+    "longitude": -6.2160987854003906
+
+  },
+
+  "bus_stop_n_Seatown Road": {
+
+    "id": "Seatown Road",
+
+    "latitude": 53.461650848388672,
+
+    "longitude": -6.2135071754455566
+
+  },
+
+  "bus_stop_n_West Seatown": {
+
+    "id": "West Seatown",
+
+    "latitude": 53.464881896972656,
+
+    "longitude": -6.2170801162719727
+
+  },
+
+  "bus_stop_n_St Colmcille's GFC": {
+
+    "id": "St Colmcille's GFC",
+
+    "latitude": 53.468059539794922,
+
+    "longitude": -6.221710205078125
+
+  },
+
+  "bus_stop_n_Jugback Lane": {
+
+    "id": "Jugback Lane",
+
+    "latitude": 53.468463897705078,
+
+    "longitude": -6.2276058197021484
+
+  },
+
+  "bus_stop_n_Applewood Estate": {
+
+    "id": "Applewood Estate",
+
+    "latitude": 53.469577789306641,
+
+    "longitude": -6.231842041015625
+
+  },
+
+  "bus_stop_n_Laurelton": {
+
+    "id": "Laurelton",
+
+    "latitude": 53.468364715576172,
+
+    "longitude": -6.2362709045410156
+
+  },
+
+  "bus_stop_n_Cianlea": {
+
+    "id": "Cianlea",
+
+    "latitude": 53.466587066650391,
+
+    "longitude": -6.2392010688781738
+
+  },
+
+  "bus_stop_n_Ardcian": {
+
+    "id": "Arcian",
+
+    "latitude": 53.465545654296875,
+
+    "longitude": -6.2396121025085449
+
+  },
+
+  "bus_stop_n_Lios Cian": {
+
+    "id": "Lios Cian",
+
+    "latitude": 53.464084625244141,
+
+    "longitude": -6.2393388748168945
+
+  },
+
+  "bus_stop_n_Valley View": {
+
+    "id": "Valley View",
+
+    "latitude": 53.4615478515625,
+
+    "longitude": -6.2404232025146484
+
+  },
+
+  "bus_stop_n_Saint Cronan's Sout": {
+
+    "id": "Saint Cronan's Sout",
+
+    "latitude": 53.459854125976563,
+
+    "longitude": -6.2417497634887695
+
+  },
+
+  "bus_stop_n_Swords Manor": {
+
+    "id": "Swords Manor",
+
+    "latitude": 53.4598388671875,
+
+    "longitude": -6.2450871467590332
+
+  }
+
+}
