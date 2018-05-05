@@ -12,6 +12,32 @@ get '/' do
     return res.to_json
 end
 
+get '/bus_routes' do
+    status 200
+    
+    file = File.read('db/bus_routes.json')
+    res = JSON.parse(file)
+    
+    return res.to_json
+end
+
+post '/bus_routes' do
+    status 200
+    begin
+        json = JSON.parse(unescape(request.body.read.to_s))
+        
+        File.open("db/bus_routes.json","w") do |f|
+          f.write(json.to_json)
+        end
+        
+        status 200
+        return json.to_json
+    rescue StandardError => err
+        status 500
+        return "{\"success\":\"false\", \"error\":" + err.to_s + "}"
+    end
+end
+
 get '/bus_stops' do
     status 200
     

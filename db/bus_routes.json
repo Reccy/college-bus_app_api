@@ -1,0 +1,969 @@
+[
+
+  {
+
+    "id": "507",
+
+    "internal_id": "s_507",
+
+    "bus_stops": [
+
+      "s_Abbeyvale",
+
+      "s_Swords Manor",
+
+      "s_Valley View",
+
+      "s_TheGallops",
+
+      "s_Lios Cian",
+
+      "s_Laurelton",
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Road (Foxwood Est)",
+
+      "s_Seamount View Est",
+
+      "s_Mountgorry Way",
+
+      "s_Holywell Square",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "506X",
+
+    "internal_id": "s_506X",
+
+    "bus_stops": [
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Roundabout",
+
+      "s_Pavilions Shopping Centre",
+
+      "s_Dublin Road (Penneys)",
+
+      "s_Dublin Road (Topaz)",
+
+      "s_Pinnock Hill r/about",
+
+      "s_Reids Furniture",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "505",
+
+    "internal_id": "s_505",
+
+    "bus_stops": [
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_River Valley Lawn",
+
+      "s_River Valley Heights",
+
+      "s_Cherry Garth Estate",
+
+      "s_Rathingle, Forest View",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "504",
+
+    "internal_id": "s_504",
+
+    "bus_stops": [
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_River Valley Lawn",
+
+      "s_River Valley Heights",
+
+      "s_Cherry Garth Estate",
+
+      "s_Rathingle, Forest View",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "503",
+
+    "internal_id": "s_503",
+
+    "bus_stops": [
+
+      "s_Abbeyvale",
+
+      "s_Swords Manor",
+
+      "s_Valley View",
+
+      "s_TheGallops",
+
+      "s_Lios Cian",
+
+      "s_Cianlea",
+
+      "s_Laurelton",
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Roundabout",
+
+      "s_Pavilions Shopping Centre",
+
+      "s_Dublin Road (Penneys)",
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay",
+
+      "s_Merrion Square"
+
+    ]
+
+  },
+
+  {
+
+    "id": "502",
+
+    "internal_id": "s_502",
+
+    "bus_stops": [
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "501X",
+
+    "internal_id": "s_501X",
+
+    "bus_stops": [
+
+      "s_Pavilions Shopping Centre",
+
+      "s_Dublin Road (Penneys)",
+
+      "s_Dublin Road (Topaz)",
+
+      "s_Pinnock Hill r/about",
+
+      "s_Reids Furniture",
+
+      "s_Swords Bypass opp Texaco",
+
+      "s_National Show Ground",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500X",
+
+    "internal_id": "s_500X",
+
+    "bus_stops": [
+
+      "s_Abbeyvale",
+
+      "s_Swords Manor",
+
+      "s_Valley View",
+
+      "s_TheGallops",
+
+      "s_Lios Cian",
+
+      "s_Cianlea",
+
+      "s_Laurelton",
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Roundabout",
+
+      "s_Pinnock Hill r/about",
+
+      "s_Reids Furniture",
+
+      "s_Swords Bypass opp Texaco",
+
+      "s_National Show Ground",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500N",
+
+    "internal_id": "s_500N",
+
+    "bus_stops": [
+
+      "s_Abbeyvale",
+
+      "s_Swords Manor",
+
+      "s_Valley View",
+
+      "s_TheGallops",
+
+      "s_Lios Cian",
+
+      "s_Cianlea",
+
+      "s_Laurelton",
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Roundabout",
+
+      "s_Pavilions Shopping Centre",
+
+      "s_Dublin Road (Penneys)",
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500",
+
+    "internal_id": "s_500",
+
+    "bus_stops": [
+
+      "s_Abbeyvale",
+
+      "s_Swords Manor",
+
+      "s_Valley View",
+
+      "s_TheGallops",
+
+      "s_Lios Cian",
+
+      "s_Cianlea",
+
+      "s_Laurelton",
+
+      "s_Applewood Estate",
+
+      "s_Jugback Lane",
+
+      "s_St Colmcille's GAA",
+
+      "s_West Seatown",
+
+      "s_Seatown Road",
+
+      "s_Swords Bypass",
+
+      "s_Malahide Roundabout",
+
+      "s_Pavilions Shopping Centre",
+
+      "s_Dublin Road (Penneys)",
+
+      "s_Highfields",
+
+      "s_Ballintrane",
+
+      "s_Boroimhe Laurels",
+
+      "s_Boroimhe Maples",
+
+      "s_Airside Road",
+
+      "s_Airside Central",
+
+      "s_Holywell Distributor Road",
+
+      "s_M1 Drinan",
+
+      "s_East Wall Road",
+
+      "s_Convention Center",
+
+      "s_Sean O'Casey Bridge",
+
+      "s_Eden Quay"
+
+    ]
+
+  },
+
+  {
+
+    "id": "506",
+
+    "internal_id": "n_506",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Holywell Square",
+
+      "n_Mountgorry Way",
+
+      "n_Seamount View Est",
+
+      "n_Malahide Road (Foxwood Est)",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate"
+
+    ]
+
+  },
+
+  {
+
+    "id": "505X",
+
+    "internal_id": "n_505X",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Airport Roundabout",
+
+      "n_N1 Business Park",
+
+      "n_Boroimhe Maples",
+
+      "n_Boroimhe Laurels",
+
+      "n_Rathingle Road",
+
+      "n_Cherry Avenue",
+
+      "n_Rathingle, Forest View",
+
+      "n_Cherry Garth Estate",
+
+      "n_River Valley Heights",
+
+      "n_Ballintrane",
+
+      "n_Highfields",
+
+      "n_Dublin Road (opp Penneys)",
+
+      "n_Malahide Roundabout"
+
+    ]
+
+  },
+
+  {
+
+    "id": "504X",
+
+    "internal_id": "n_504X",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Airport Roundabout",
+
+      "n_N1 Business Park",
+
+      "n_Boroimhe Maples",
+
+      "n_Boroimhe Laurels",
+
+      "n_Rathingle Road",
+
+      "n_Cherry Avenue",
+
+      "n_Rathingle, Forest View",
+
+      "n_Cherry Garth Estate",
+
+      "n_River Valley Heights",
+
+      "n_Ballintrane",
+
+      "n_Highfields",
+
+      "n_Dublin Road (opp Penneys)",
+
+      "n_Malahide Roundabout"
+
+    ]
+
+  },
+
+  {
+
+    "id": "503",
+
+    "internal_id": "n_503",
+
+    "bus_stops": [
+
+      "n_Merrion Square",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Airside Central",
+
+      "n_Boroimhe Maples",
+
+      "n_Boroimhe Laurels",
+
+      "n_Ballintrane",
+
+      "n_Highfields",
+
+      "n_Dublin Road (opp Penneys)",
+
+      "n_Malahide Roundabout",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate",
+
+      "n_Laurelton",
+
+      "n_Cianlea",
+
+      "n_Ardcian",
+
+      "n_Lios Cian",
+
+      "n_Valley View",
+
+      "n_Saint Cronan's Sout",
+
+      "n_Swords Manor"
+
+    ]
+
+  },
+
+  {
+
+    "id": "501",
+
+    "internal_id": "n_501",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Airside Central",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate",
+
+      "n_Laurelton",
+
+      "n_Cianlea",
+
+      "n_Ardcian",
+
+      "n_Lios Cian",
+
+      "n_Valley View",
+
+      "n_Saint Cronan's Sout",
+
+      "n_Swords Manor"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500X",
+
+    "internal_id": "n_500X",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate",
+
+      "n_Laurelton",
+
+      "n_Cianlea",
+
+      "n_Ardcian",
+
+      "n_Lios Cian",
+
+      "n_Valley View",
+
+      "n_Saint Cronan's Sout",
+
+      "n_Swords Manor"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500N",
+
+    "internal_id": "n_500N",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Airside Central",
+
+      "n_Boroimhe Maples",
+
+      "n_Boroimhe Laurels",
+
+      "n_Ballintrane",
+
+      "n_Highfields",
+
+      "n_Dublin Road (opp Penneys)",
+
+      "n_Malahide Roundabout",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate",
+
+      "n_Laurelton",
+
+      "n_Cianlea",
+
+      "n_Ardcian",
+
+      "n_Lios Cian",
+
+      "n_Valley View",
+
+      "n_Saint Cronan's Sout",
+
+      "n_Swords Manor"
+
+    ]
+
+  },
+
+  {
+
+    "id": "500",
+
+    "internal_id": "n_500",
+
+    "bus_stops": [
+
+      "n_Eden Quay",
+
+      "n_IFSC",
+
+      "n_Custom House Quay (Jury's)",
+
+      "n_Custom House Quay (Clarion's)",
+
+      "n_North Wall Quay",
+
+      "n_Point Depot",
+
+      "n_Holywell Distributor Road",
+
+      "n_Airside Central",
+
+      "n_Boroimhe Maples",
+
+      "n_Boroimhe Laurels",
+
+      "n_Ballintrane",
+
+      "n_Highfields",
+
+      "n_Dublin Road (opp Penneys)",
+
+      "n_Malahide Roundabout",
+
+      "n_Seatown Road",
+
+      "n_West Seatown",
+
+      "n_St Colmcille's GFC",
+
+      "n_Jugback Lane",
+
+      "n_Applewood Estate",
+
+      "n_Laurelton",
+
+      "n_Cianlea",
+
+      "n_Ardcian",
+
+      "n_Lios Cian",
+
+      "n_Valley View",
+
+      "n_Saint Cronan's Sout",
+
+      "n_Swords Manor"
+
+    ]
+
+  }
+
+]
