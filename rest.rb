@@ -1,8 +1,15 @@
 require 'sinatra'
-require 'yaml'
+require 'base64'
 require 'json'
+require 'yaml'
 require 'pg'
 
+# Setup connection to the Postgres Database
+conn = nil
+begin
+    conn = PG.connect(ENV['DATABASE_URL'])
+    conn.exec "CREATE TABLE IF NOT EXISTS kvp (key varchar PRIMARY KEY, value varchar);"
+end
 
 # Returns debug information
 get '/' do
@@ -15,10 +22,10 @@ end
 get '/bus_routes' do
     status 200
     
-    file = File.read('db/bus_routes.json')
-    res = JSON.parse(file)
+    res = conn.exec "SELECT * FROM kvp WHERE key = 'bus_routes';"
+    res = Base64.decode64(res[0]['value'])
     
-    return res.to_json
+    return res
 end
 
 post '/bus_routes' do
@@ -26,9 +33,10 @@ post '/bus_routes' do
     begin
         json = JSON.parse(unescape(request.body.read.to_s))
         
-        File.open("db/bus_routes.json","w") do |f|
-          f.write(json.to_json)
-        end
+        writeval = Base64.encode64(json.to_json);
+        
+        conn.exec "DELETE FROM kvp WHERE key = 'bus_routes';"
+        conn.exec "INSERT INTO kvp VALUES('bus_routes','#{writeval}');"
         
         status 200
         return json.to_json
@@ -41,20 +49,21 @@ end
 get '/bus_stops' do
     status 200
     
-    file = File.read('db/bus_stops.json')
-    res = JSON.parse(file)
+    res = conn.exec "SELECT * FROM kvp WHERE key = 'bus_stops';"
+    res = Base64.decode64(res[0]['value'])
     
-    return res.to_json
+    return res
 end
 
-# Sets the list of bus stops.
 post '/bus_stops' do
+    status 200
     begin
         json = JSON.parse(unescape(request.body.read.to_s))
         
-        File.open("db/bus_stops.json","w") do |f|
-          f.write(json.to_json)
-        end
+        writeval = Base64.encode64(json.to_json);
+        
+        conn.exec "DELETE FROM kvp WHERE key = 'bus_stops';"
+        conn.exec "INSERT INTO kvp VALUES('bus_stops','#{writeval}');"
         
         status 200
         return json.to_json
